@@ -1,5 +1,5 @@
 {
-  "name": "kevinxjavier-devops",
+  "name": "octavioacosta-devops",
   "version": "1.0.0",
   "description": "A Hello World HTTP server",
   "main": "main.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kevinxjavier/devops.git"
+    "url": "https://github.com/jesusoctavioas/Devops.git"
   },
   "keywords": [
     "node",
     "docker",
     "dockerfile"
   ],
-  "author": "kevin@kevinpina.com",
+  "author": "jesusoctavioas@gmail.com",
   "license": "ISC",
   "devDependencies": {
     "test": ">=0.6.0"
